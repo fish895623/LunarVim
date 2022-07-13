@@ -8,31 +8,31 @@ M.config = function()
       signs = {
         add = {
           hl = "GitSignsAdd",
-          text = "▎",
+          text = "A",
           numhl = "GitSignsAddNr",
           linehl = "GitSignsAddLn",
         },
         change = {
           hl = "GitSignsChange",
-          text = "▎",
+          text = "C",
           numhl = "GitSignsChangeNr",
           linehl = "GitSignsChangeLn",
         },
         delete = {
           hl = "GitSignsDelete",
-          text = "契",
+          text = "D",
           numhl = "GitSignsDeleteNr",
           linehl = "GitSignsDeleteLn",
         },
         topdelete = {
           hl = "GitSignsDelete",
-          text = "契",
+          text = "D",
           numhl = "GitSignsDeleteNr",
           linehl = "GitSignsDeleteLn",
         },
         changedelete = {
           hl = "GitSignsChange",
-          text = "▎",
+          text = "C",
           numhl = "GitSignsChangeNr",
           linehl = "GitSignsChangeLn",
         },
